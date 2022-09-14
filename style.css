@@ -5,3 +5,17 @@
 .first-h1 {
     color: rgb(70, 68, 68);
 }
+
+.order {
+    text-decoration: none;
+    background-image: linear-gradient(blue, black);
+    padding: 10px;
+    color: aliceblue;
+    border-radius: 7px;
+    font-weight: bold;
+}
+
+.first-pragraph {
+    color: rgba(231, 99, 4, 0.863);
+    font-weight: bold;
+}

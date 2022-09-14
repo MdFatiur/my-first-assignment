@@ -32,6 +32,7 @@ body {
 
 .first-section {
     padding-top: 3%;
+    padding-bottom: 3%;
     display: flex;
     background-image: url(/image/background.jpg);
     background-repeat: no-repeat;

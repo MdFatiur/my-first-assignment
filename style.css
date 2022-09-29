@@ -48,6 +48,7 @@ body {
 .section-2 {
     display: flex;
     background-image: url(image/food-background.jpg);
+    background-size: cover;
 
 }
 
